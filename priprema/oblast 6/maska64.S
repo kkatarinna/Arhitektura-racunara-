@@ -1,5 +1,5 @@
 #drugi zadatak
-#sugava maska u dvostrukoj preciznosti
+#maska u dvostrukoj preciznosti
 #unsigned long long maska64(unsigned int n, unsigned int v);
 .section .text
 .global maska64
